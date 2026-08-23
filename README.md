@@ -52,7 +52,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rohanbeingsocial.github.io/claude-commander/"><img src="assets/claude-commander.png" alt="Claude Commander terminal grid with per-account usage meters and a task board" width="100%"></a>
+<a href="https://rohanbeingsocial.github.io/claude-commander/"><img src="assets/claude-commander.gif" alt="Delegating a task in Claude Commander and a fourth worker picking it up across accounts" width="100%"></a>
 
 <h3><a href="https://github.com/rohanbeingsocial/claude-commander">Claude Commander</a></h3>
 
@@ -125,7 +125,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rohanbeingsocial.github.io/complycheck/"><img src="assets/complycheck.png" alt="ComplyCheck orientation checklist showing items to verify, severity counts and official sources" width="100%"></a>
+<a href="https://rohanbeingsocial.github.io/complycheck/"><img src="assets/complycheck.gif" alt="Answering ComplyCheck's questions and the orientation checklist it produces, each item citing its regulator" width="100%"></a>
 
 <h3><a href="https://github.com/rohanbeingsocial/complycheck">ComplyCheck</a></h3>
 
