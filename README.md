@@ -13,6 +13,15 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/rohanbeingsocial?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/repos-button-dark.svg">
+      <img src="assets/repos-button-light.svg" alt="See all repositories" width="208">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
     <img src="assets/contributions-light.svg" alt="Contribution graph for the last year" width="775">
@@ -135,13 +144,19 @@
 
 ---
 
-## Stack
+<h2 align="center">Stack</h2>
 
-**Languages** &nbsp;`Python` `TypeScript` `Rust` `SQL`
+<p align="center">
+  <b>Languages</b>&nbsp;&nbsp;<code>Python</code> <code>TypeScript</code> <code>Rust</code> <code>SQL</code>
+</p>
 
-**AI / ML** &nbsp;`RAG` `Qdrant` `Embeddings` `OCR` `PyTorch`
+<p align="center">
+  <b>AI / ML</b>&nbsp;&nbsp;<code>RAG</code> <code>Qdrant</code> <code>Embeddings</code> <code>OCR</code> <code>PyTorch</code>
+</p>
 
-**Systems** &nbsp;`Tauri` `React` `Node.js` `PostgreSQL` `TimescaleDB` `Docker`
+<p align="center">
+  <b>Systems</b>&nbsp;&nbsp;<code>Tauri</code> <code>React</code> <code>Node.js</code> <code>PostgreSQL</code> <code>TimescaleDB</code> <code>Docker</code>
+</p>
 
 ---
 
