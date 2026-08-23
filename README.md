@@ -56,7 +56,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://rohanbeingsocial.github.io/wildflow/"><img src="assets/wildflow.png" alt="Wildflow answering a polymer chemistry numerical with cited source sections and an arithmetic-verified badge" width="100%"></a>
+<a href="https://rohanbeingsocial.github.io/wildflow/"><img src="assets/wildflow.gif" alt="Wildflow routing a question to the right unit, then answering it with cited sections and an arithmetic-verified badge" width="100%"></a>
 
 <h3><a href="https://github.com/rohanbeingsocial/wildflow">Wildflow</a></h3>
 
@@ -138,11 +138,22 @@
 
 ---
 
-## How I work
+<h2 align="center">How I work</h2>
 
-Most of what I build follows the same rule: **the system has to be able to explain itself.** A score
-points back at the rule and the page it came from. An answer cites the section it was read from. A
-cleaning step is a line of YAML you can read before it runs. Deterministic where determinism is
-possible, verified where it isn't, and reproducible either way.
+<p align="center">
+  Most of what I build follows the same rule:<br>
+  <b>the system has to be able to explain itself.</b>
+</p>
+
+<p align="center">
+  A score points back at the rule and the page it came from.<br>
+  An answer cites the section it was read from.<br>
+  A cleaning step is a line of YAML you can read before it runs.
+</p>
+
+<p align="center">
+  Deterministic where determinism is possible,<br>
+  verified where it isn't, and reproducible either way.
+</p>
 
 <p align="center"><sub>Open to collaboration. Reach me on <a href="https://www.linkedin.com/in/rohandeogaonkar/">LinkedIn</a>.</sub></p>
