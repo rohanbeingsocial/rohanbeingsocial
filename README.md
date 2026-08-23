@@ -88,7 +88,7 @@
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rohanbeingsocial.github.io/ipo-radar/"><img src="assets/ipo-radar.png" alt="IPO Radar dashboard plotting RHP score against listing-day gain above a list of tracked IPOs" width="100%"></a>
+<a href="https://rohanbeingsocial.github.io/ipo-radar/"><img src="assets/ipo-radar.gif" alt="The IPO Radar dashboard: prospectus drop zone, then RHP score plotted against listing-day gain over every tracked IPO" width="100%"></a>
 
 <h3><a href="https://github.com/rohanbeingsocial/ipo-radar">IPO Radar</a></h3>
 
