@@ -1,0 +1,38 @@
+name: Refresh contribution graph
+
+# Regenerates assets/contributions-{light,dark}.svg from the live contribution
+# calendar. If the first run reports a null user, GITHUB_TOKEN could not read
+# the calendar: create a classic PAT with read:user, save it as CONTRIB_TOKEN,
+# and swap it in below.
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Render the graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.CONTRIB_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/contribution_graph.py "${{ github.repository_owner }}"
+
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contributions-light.svg assets/contributions-dark.svg
+          git diff --staged --quiet && echo "no change" && exit 0
+          git commit -m "Refresh contribution graph"
+          git push

@@ -12,6 +12,13 @@
   <a href="https://rohanbeingsocial.github.io/portfolio2026/">Portfolio</a>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+    <img src="assets/contributions-light.svg" alt="Contribution graph for the last year" width="775">
+  </picture>
+</p>
+
 ---
 
 ## Featured Projects
