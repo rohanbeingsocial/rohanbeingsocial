@@ -1,5 +1,3 @@
-<h1 align="center">Rohan Deogaonkar</h1>
-
 <p align="center">
   One engineer across software, silicon, and markets.<br>
   <sub>TY B.Tech ENTC</sub>
