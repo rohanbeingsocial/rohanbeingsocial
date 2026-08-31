@@ -1,6 +1,6 @@
 <h2 align="center">
   One engineer across software, silicon, and markets.<br>
-  <sub>TY B.Tech ENTC</sub>
+  <sub>TY B.Tech ENTC AIML</sub>
 </h2>
 
 <p align="center">
