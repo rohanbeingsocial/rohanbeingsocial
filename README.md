@@ -39,6 +39,12 @@
 
 <h3><a href="https://github.com/rohanbeingsocial/candlekit-charts">CandleKit Charts</a></h3>
 
+<p>
+<a href="https://github.com/rohanbeingsocial/candlekit-charts/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/rohanbeingsocial/candlekit-charts?label=stars&amp;style=flat-square&amp;labelColor=3d444d&amp;color=21262d"><img src="https://img.shields.io/github/stars/rohanbeingsocial/candlekit-charts?label=stars&amp;style=flat-square&amp;labelColor=d1d9e0&amp;color=f6f8fa" alt="GitHub stars"></picture></a>
+<a href="https://github.com/rohanbeingsocial/candlekit-charts/forks"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/forks/rohanbeingsocial/candlekit-charts?label=forks&amp;style=flat-square&amp;labelColor=3d444d&amp;color=21262d"><img src="https://img.shields.io/github/forks/rohanbeingsocial/candlekit-charts?label=forks&amp;style=flat-square&amp;labelColor=d1d9e0&amp;color=f6f8fa" alt="GitHub forks"></picture></a>
+<a href="https://www.npmjs.com/package/@getcandlekit/charts"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/npm/dm/%40getcandlekit%2Fcharts?label=npm&amp;style=flat-square&amp;labelColor=3d444d&amp;color=21262d"><img src="https://img.shields.io/npm/dm/%40getcandlekit%2Fcharts?label=npm&amp;style=flat-square&amp;labelColor=d1d9e0&amp;color=f6f8fa" alt="npm downloads per month"></picture></a>
+</p>
+
 <p><b>Everything developers keep rebuilding around Lightweight Charts™, packaged once.</b></p>
 
 <p>Drawing tools, technical indicators, a deterministic replay engine, measurement and synced multi-pane layouts, behind one consistent API. Framework-agnostic core with React bindings.</p>
