@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://optionsgyan.com">OptionsGyan</a> ·
+  <a href="https://infivelines.com">InFiveLines</a> ·
   <a href="https://www.linkedin.com/in/rohandeogaonkar/">LinkedIn</a> ·
   <a href="https://medium.com/@rohandeogaonkar.9">Medium</a> ·
   <a href="https://rohanbeingsocial.github.io/portfolio2026/">Portfolio</a>
