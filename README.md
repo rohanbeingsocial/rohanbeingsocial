@@ -35,7 +35,7 @@
 <tr>
 <td valign="top">
 
-<a href="https://github.com/rohanbeingsocial/showboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showboard-dark.gif"><img src="assets/showboard.gif" alt="Claude Code in a terminal beside Showboard in a browser: asked for the best seller of 2026 against last year, it calls Showboard's draw tool and a board of revenue figures, a monthly line chart and the top products appears" width="100%"></picture></a>
+<a href="https://github.com/rohanbeingsocial/showboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showboard-meridian-dark.gif"><img src="assets/showboard-meridian.gif" alt="Claude Code beside Showboard inside an investing app: asked whether silver rose each time the gold/silver ratio crossed above 90, it reads two years of gold and silver prices from the app's API and draws a board with the ratio and silver side by side, each stretch above 90 marked, and silver's moves 1, 3 and 6 months after each cross" width="100%"></picture></a>
 
 <h3 align="center"><a href="https://github.com/rohanbeingsocial/showboard">Showboard</a></h3>
 
