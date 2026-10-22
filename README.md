@@ -29,6 +29,29 @@
 
 ---
 
+## Showcase
+
+<table>
+<tr>
+<td valign="top">
+
+<a href="https://github.com/rohanbeingsocial/showboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/showboard-dark.gif"><img src="assets/showboard.gif" alt="Claude Code in a terminal beside Showboard in a browser: asked for the best seller of 2026 against last year, it calls Showboard's draw tool and a board of revenue figures, a monthly line chart and the top products appears" width="100%"></picture></a>
+
+<h3 align="center"><a href="https://github.com/rohanbeingsocial/showboard">Showboard</a></h3>
+
+<p align="center"><b>Ask in your terminal. Get a dashboard on your screen.</b></p>
+
+<p align="center">An MCP server that lets Claude Code, Codex, Cursor, Gemini CLI and other coding agents answer questions about your SQL database, or a folder of Excel and CSV files, with charts, tables and headline numbers. The agent writes read-only SQL, Showboard draws the board in your browser, your own app or beside your terminal. 2.7× cheaper and 3.2× faster than Claude Code building the charts itself.</p>
+
+<p align="center"><sub><b>TypeScript</b> · MCP · Postgres / SQLite / Excel / CSV · MIT</sub><br>
+<a href="https://www.npmjs.com/package/showboard">npm</a> ·
+<a href="https://github.com/rohanbeingsocial/showboard#benchmark">Benchmark</a> ·
+<a href="https://github.com/rohanbeingsocial/showboard">Source</a></p>
+
+</td>
+</tr>
+</table>
+
 ## Featured Projects
 
 <table>
